@@ -1,0 +1,1 @@
+const primeria_variavel = 1
